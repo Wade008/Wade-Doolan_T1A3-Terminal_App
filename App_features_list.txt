@@ -1,0 +1,10 @@
+a customer store credit application that could do the following:
+
+- Add a new customer, with details like phone number, first name, last name, email address.
+- Delete a customer.
+- Edit customer details.
+- Add store credit against the customer.
+- Remove store credit if the customer wants to use the credit to make a purchase.
+- Show the total amount of credit for a given customer.
+- Assign a dollar value per credit.
+- Maybe have different categories for the type of store credit. e.g. general credit or credits towards shirt purchases only.
