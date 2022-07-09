@@ -8,3 +8,7 @@ a customer store credit application that could do the following:
 - Show the total amount of credit for a given customer.
 - Assign a dollar value per credit.
 - Maybe have different categories for the type of store credit. e.g. general credit or credits towards shirt purchases only.
+
+
+Testing:
+Manual testing requires a spreadsheet where in each row you give a decription of what you're testing (what kind of test, who is testing, the input the test is receiving, the expected output, the output you are actually getting, The test is/isn't passing) You can create a spreadsheet of your own or use a template
