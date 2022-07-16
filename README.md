@@ -32,11 +32,22 @@ The purpose of this terminal application (The Store Credit App) is to allow reta
 
 <hr> 
 
+## Implementation Plan  
+An implementation plan for this project was developed using Trello. The Trello board can be accessed here: https://trello.com/invite/b/wpKDgCUi/357581b1b74513e1c3144f4a0924360f/terminal-application-implementation
+
+
+Please note: the Trello board includes five lists, with each list relating to a specific feature of the application. Inside each list is a card that contains a checklist with five or more items. The cards show the overall deadline for the relevant feature. And the checklists show a deadline relevant to each item.   
+
+Screenshot of my Trello board:
+![trello_board](./docs/trello.png)
+
+<hr> 
+
 ## Help Documentation  
 
 ### How to install and run the application  
 
-1. Download the required code for the application from GitHub: https://github.com/Wade008/Terminal-Application  
+1. Download the required code for the application from GitHub: https://github.com/Wade008/Terminal-Application. The code can be downloaded by entering the following command in the Terminal ```  git clone git@github.com:Wade008/Terminal-Application.git ```
 
 2. This application requires Python 3 to work. If required, download and install Python 3 from: https://www.python.org/downloads/  
 
@@ -88,22 +99,6 @@ Feature: Calculate and view total outstanding credit and dollar value for the st
 
 - This feature is accessed by entering the [e] in the main menu.
 - The current balance for outstanding store credit will be shown along with the current total value of the outstanding store credit.
-
-<hr> 
-
-## Implementation Plan  
-An implementation plan for this project was developed using Trello. The Trello board can be accessed here: https://trello.com/invite/b/wpKDgCUi/357581b1b74513e1c3144f4a0924360f/terminal-application-implementation
-
-
-Please note: the Trello board includes five lists, with each list relating to a specific feature of the application. Inside each list is a card that contains a checklist with five or more items. The cards show the overall deadline for the relevant feature. And the checklists show a deadline relevant each item.   
-
-Screenshot of my Trello board:
-![trello_board](./docs/trello.png)
-
-
-
-
-
 
 <hr>  
 
