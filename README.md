@@ -51,7 +51,7 @@ Screenshot of my Trello board:
 
 2. This application requires Python 3 to work. If required, download and install Python 3 from: https://www.python.org/downloads/  
 
-3. The program also requires the termcolor Python package (https://pypi.org/project/termcolor/). This can be installed by entering the following command in the Terminal ``` pip install termcolor ```
+3. The program also requires the termcolor Python package (https://pypi.org/project/termcolor/). This can be installed by entering the following command in the Terminal  ``` pip install termcolor ```
 
 4. Using the Terminal, navigate to the same directory the application code has been saved in and run the following command ``` ./startapp.sh YOUR_FIRST_NAME ```
 
